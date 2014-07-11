@@ -8,6 +8,7 @@
 		"BeautifyRuby",
 		"Better CoffeeScript",
 		"Can I Use",
+		"BracketHighlighter",
 		"Cheat Sheets",
 		"Clipboard Manager",
 		"CoffeeCompile",
@@ -18,11 +19,13 @@
 		"CSScomb JS",
 		"Dictionaries",
 		"DictionaryAutoComplete",
+		"Commitment",
 		"Emmet",
 		"FileDiffs",
 		"Git",
 		"HTML-CSS-JS Prettify",
 		"Jade",
+		"Jade Build",
 		"Jade Snippets",
 		"jQuery Snippets for Coffeescript",
 		"JSON Reindent",
@@ -35,6 +38,9 @@
 		"Pretty JSON",
 		"Sass",
 		"SassBeautify",
-		"SideBarEnhancements"
+		"SASS Snippets",
+		"SideBarEnhancements",
+		"Theme - Soda",
+		"Vagrant"
 	]
 }
