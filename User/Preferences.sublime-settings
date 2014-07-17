@@ -92,7 +92,6 @@
 		".hg",
 		"CVS"
 	],
-	"font_face": "Source Code Pro",
 	"font_options":
 	[
 	],
@@ -104,8 +103,8 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"Markdown",
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
 	"indent_guide_options":
 	[
