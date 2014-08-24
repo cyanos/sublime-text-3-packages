@@ -24,6 +24,7 @@
 		"Emmet",
 		"FileDiffs",
 		"Git",
+		"gitp",
 		"HTML-CSS-JS Prettify",
 		"Jade",
 		"Jade Build",
@@ -32,7 +33,6 @@
 		"JSON Reindent",
 		"Lo-Dash Snippets for CoffeeScript",
 		"Local History",
-		"Markdown Extended",
 		"Markdown Preview",
 		"MarkdownEditing",
 		"Open-Include",
@@ -42,7 +42,6 @@
 		"SassBeautify",
 		"SideBarEnhancements",
 		"Theme - Soda",
-		"Theme - Soda SolarizedDark",
-		"Vagrant"
+		"Theme - Soda SolarizedDark"
 	]
 }
