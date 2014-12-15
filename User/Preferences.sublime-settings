@@ -147,6 +147,7 @@
 	"show_tab_close_buttons": true,
 	"smart_indent": true,
 	"spell_check": false,
+	"reveal-on-activate": false,
 	"tab_completion": true,
 	"tab_size": 2,
 	"theme": "Brogrammer.sublime-theme",
