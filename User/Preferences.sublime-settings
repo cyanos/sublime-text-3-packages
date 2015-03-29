@@ -95,7 +95,7 @@
 	"font_options":
 	[
 	],
-	"font_size": 12,
+	"font_size": 11,
 	"gpu_window_buffer": "auto",
 	"gutter": true,
 	"highlight_line": true,
@@ -103,8 +103,8 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"Markdown",
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
 	"indent_guide_options":
 	[

@@ -1,4 +1,7 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"All Autocomplete",
@@ -17,7 +20,6 @@
 		"Comment-Snippets",
 		"Commitment",
 		"Compass",
-		"CSScomb JS",
 		"Dictionaries",
 		"DictionaryAutoComplete",
 		"Emmet",
@@ -35,6 +37,7 @@
 		"Markdown Preview",
 		"MarkdownEditing",
 		"Open-Include",
+		"Package Control",
 		"Pretty JSON",
 		"Sass",
 		"SASS Snippets",
