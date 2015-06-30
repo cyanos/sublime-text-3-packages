@@ -1,14 +1,6 @@
 {
 	"in_process_packages":
 	[
-		"SideBarEnhancements",
-		"ColorPicker",
-		"FileBrowser",
-		"SublimeREPL",
-		"Better CoffeeScript",
-		"CoffeeCompile",
-		"Jade Build",
-		"Jade Snippets"
 	],
 	"installed_packages":
 	[
@@ -45,7 +37,6 @@
 		"jQuery Snippets for Coffeescript",
 		"JsFormat",
 		"JSON Reindent",
-		"Lo-Dash Snippets for CoffeeScript",
 		"Local History",
 		"Markdown Preview",
 		"MarkdownEditing",
