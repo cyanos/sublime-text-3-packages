@@ -1,8 +1,12 @@
 {
+	"added_words":
+	[
+		"journaler"
+	],
 	"always_prompt_for_file_reload": false,
 	"always_show_minimap_viewport": false,
 	"animation_enabled": true,
-	"atomic_save": true,
+	"atomic_save": false,
 	"auto_close_tags": true,
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": false,
@@ -34,9 +38,10 @@
 		"*.pdf",
 		"*.swf",
 		"*.jar",
+		"*.woff",
 		"*.zip"
 	],
-	"bold_folder_labels": false,
+	"bold_folder_labels": true,
 	"caret_extra_bottom": 0,
 	"caret_extra_top": 0,
 	"caret_extra_width": 0,
@@ -94,8 +99,9 @@
 	],
 	"font_options":
 	[
+		"subpixel_antialias"
 	],
-	"font_size": 11,
+	"font_size": 12,
 	"gpu_window_buffer": "auto",
 	"gutter": true,
 	"highlight_line": true,
@@ -103,12 +109,8 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"Jade",
-		"Markdown",
-		"Open-Include",
 		"Vintage",
-		"Can I Use",
-		"SideBarEnhancements"
+		"Markdown"
 	],
 	"ignored_words":
 	[
