@@ -1,5 +1,0 @@
-<<<<<<< Updated upstream
-{"description": "HTML, CSS, JavaScript and JSON code formatter for Sublime Text 2 and 3 via node.js", "sublime_text": "*", "version": "2015.03.18.14.51.45", "platforms": ["*"], "url": "https://github.com/victorporof/Sublime-HTMLPrettify", "dependencies": []}
-=======
-{"sublime_text": "*", "platforms": ["*"], "description": "HTML, CSS, JavaScript and JSON code formatter for Sublime Text 2 and 3 via node.js", "version": "2015.03.18.14.51.45", "url": "https://github.com/victorporof/Sublime-HTMLPrettify", "dependencies": []}
->>>>>>> Stashed changes
