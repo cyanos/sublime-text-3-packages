@@ -1,0 +1,1884 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"never",
+				"neverForget	(questions.jade)"
+			],
+			[
+				"Da",
+				"DataObjectService	(board.coffee)"
+			],
+			[
+				"question",
+				"questionSource"
+			],
+			[
+				"c",
+				"caption	(addActivityDialog.jade)"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"transpa",
+				"transparent"
+			],
+			[
+				"dialog",
+				"dialogScope"
+			],
+			[
+				"activ",
+				"activity"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"activi",
+				"activities"
+			],
+			[
+				"handlew",
+				"HANDLE_WIDTH"
+			],
+			[
+				"activity",
+				"activity-list"
+			],
+			[
+				"tileD",
+				"tileDelete"
+			],
+			[
+				"radiu",
+				"border-radius"
+			],
+			[
+				"ng-sw",
+				"ng-switch-when"
+			],
+			[
+				"Hello",
+				"HelloCtrl	(hello.coffee)"
+			],
+			[
+				"inline-block",
+				"inline-block-list-item"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"menu",
+				"menu-height"
+			],
+			[
+				"workspa",
+				"workspace-svg"
+			],
+			[
+				"z-sou",
+				"z-source"
+			],
+			[
+				"obligat",
+				"obligation"
+			],
+			[
+				"z-deth",
+				"z-depth-2"
+			],
+			[
+				"EDS",
+				"EventDispatcherService"
+			],
+			[
+				"z-dep",
+				"z-depth-1"
+			],
+			[
+				"quetz",
+				"quetzal-1"
+			],
+			[
+				"quet",
+				"quetzal-11"
+			],
+			[
+				"break",
+				"breakpoint"
+			],
+			[
+				"comfortab",
+				"comfortable"
+			],
+			[
+				"diffe",
+				"difference"
+			],
+			[
+				"genuin",
+				"genuine"
+			],
+			[
+				"_",
+				"_palette"
+			],
+			[
+				"spotlight",
+				"spotlight-2"
+			],
+			[
+				"dis",
+				"discipline"
+			],
+			[
+				"profes",
+				"profession"
+			],
+			[
+				"mys",
+				"myself"
+			],
+			[
+				"chi",
+				"chi2015"
+			],
+			[
+				"Timeline",
+				"TimelineMax"
+			],
+			[
+				"return",
+				"return"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"typo",
+				"typogruby"
+			],
+			[
+				"Middle",
+				"Middleman_Typogruby"
+			],
+			[
+				"debug",
+				"debug_assets"
+			],
+			[
+				"Timelin",
+				"TimelineMax"
+			],
+			[
+				"ng-mouse",
+				"ng-mouseleave"
+			],
+			[
+				"Impac",
+				"Impact"
+			],
+			[
+				"Humanitar",
+				"Humanitarian"
+			],
+			[
+				"hr",
+				"href=\"http"
+			],
+			[
+				"co",
+				"color-1"
+			],
+			[
+				"me-monster",
+				"me-monster-1"
+			],
+			[
+				"barra",
+				"barrage-1"
+			],
+			[
+				"get",
+				"getScene1"
+			],
+			[
+				"Timel",
+				"TimelineMax"
+			],
+			[
+				"me-mon",
+				"me-monster-2"
+			],
+			[
+				"me-mons",
+				"me-monster-1"
+			],
+			[
+				"split",
+				"splitWords"
+			],
+			[
+				"closeth",
+				"closeThisDialog"
+			],
+			[
+				"color-gray",
+				"color-gray-light"
+			],
+			[
+				"transp",
+				"transparent"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"disms",
+				"dismissedIntro"
+			],
+			[
+				"Tiddly",
+				"TiddlyWiki"
+			],
+			[
+				"la",
+				"label"
+			],
+			[
+				"currentcar",
+				"currentCardRenderedContent"
+			],
+			[
+				"currentca",
+				"currentCardRenderedContent"
+			],
+			[
+				"currentcard",
+				"currentCardContent"
+			],
+			[
+				"filter",
+				"$filter	Angular generic filter"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"header",
+				"headerRegexList"
+			],
+			[
+				"headerreg",
+				"headerRegexNamed"
+			],
+			[
+				"bower",
+				"bower_components"
+			],
+			[
+				"titl",
+				"titleize"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 3638,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"browsepack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packagerem",
+				"Package Control: Remove Package"
+			],
+			[
+				"scope",
+				"Toggle ScopeAlways"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"scopeh",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packagedis",
+				"Package Control: Disable Package"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"check",
+				"Git: Checkout Current File"
+			],
+			[
+				"checkou",
+				"Git: Checkout Current File"
+			],
+			[
+				"gitcom",
+				"Git: Commit"
+			],
+			[
+				"doc",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"comment",
+				"Emmet: Toggle Comment"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"amme",
+				"Git: Amend Commit"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"gitdiff",
+				"Git: Diff All Files"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"gitdiffall",
+				"Git: Diff All Files"
+			],
+			[
+				"gitamm",
+				"Git: Amend Commit"
+			],
+			[
+				"definition",
+				"AngularJS: Look Up Definition"
+			],
+			[
+				"gotod",
+				"Coffee: Goto Definition"
+			],
+			[
+				"definiti",
+				"Coffee: Goto Definition"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"packagin",
+				"Package Control: Install Package"
+			],
+			[
+				"removep",
+				"Package Control: Remove Package"
+			],
+			[
+				"packrem",
+				"Package Control: Remove Package"
+			],
+			[
+				"instalpac",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"\\",
+				"Pretty JSON: JSON query with ./jq"
+			],
+			[
+				"packagein",
+				"Package Control: Install Package"
+			],
+			[
+				"packr",
+				"Package Control: Remove Package"
+			],
+			[
+				"packg",
+				"Package Control: Remove Package"
+			],
+			[
+				"setsyntjade",
+				"Set Syntax: Jade"
+			],
+			[
+				"packgin",
+				"Package Control: Install Package"
+			],
+			[
+				"packremo",
+				"Package Control: Remove Channel"
+			],
+			[
+				"packageli",
+				"Package Control: List Packages"
+			],
+			[
+				"packainst",
+				"Package Control: Install Package"
+			],
+			[
+				"packalist",
+				"Package Control: List Packages"
+			],
+			[
+				"replcoff",
+				"SublimeREPL: CoffeeScript"
+			],
+			[
+				"plaint",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"coffeescr",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"sublcoff",
+				"SublimeREPL: CoffeeScript"
+			],
+			[
+				"syntaxmarkd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"cheatsheets",
+				"Cheat Sheet: Sublime Text"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"allkey",
+				"FindKeyConflicts: All Key Maps to Quick Panel"
+			],
+			[
+				"all",
+				"FindKeyConflicts: All Key Maps to Buffer"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"conflicts",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"bmq",
+				"Browse Mode: Jump List Quick Panel"
+			],
+			[
+				"packlist",
+				"Package Control: List Packages"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"syntaxham",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"syntaxjs",
+				"Set Syntax: JSON"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"gitcheck",
+				"Git: Checkout Current File"
+			],
+			[
+				"git amm",
+				"Git: Amend Commit"
+			],
+			[
+				"gitcomm",
+				"Git: Commit"
+			],
+			[
+				"gitaddcur",
+				"Git: Add Current File"
+			],
+			[
+				"gitcurrentf",
+				"Git: Add Current File"
+			],
+			[
+				"gitadd",
+				"Git: Add..."
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"haml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"gitad",
+				"Git: Add..."
+			],
+			[
+				"syntsass",
+				"Set Syntax: Sass"
+			],
+			[
+				"syntruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"syntsas",
+				"Set Syntax: Sass"
+			],
+			[
+				"checkout",
+				"Git: Checkout Current File"
+			],
+			[
+				"link",
+				"Snippet: Markdown_link_(mdl)"
+			],
+			[
+				"Gitamme",
+				"Git: Amend Commit"
+			],
+			[
+				"browser",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"cheatsh",
+				"Cheat Sheet: Sublime Text"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"wra",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"selecma",
+				"BracketHighlighter: Select Tag Name (closing and opening)"
+			],
+			[
+				"match",
+				"BracketHighlighter: Match Brackets (ignore threshold)"
+			],
+			[
+				"select",
+				"BracketHighlighter: Select Tag Name (closing and opening)"
+			],
+			[
+				"selecttag",
+				"BracketHighlighter: Select Tag Name (closing and opening)"
+			],
+			[
+				"gitamme",
+				"Git: Amend Commit"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"gitpu",
+				"Git: Push"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"ham",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"gitdif",
+				"Git: Diff Current File"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"case",
+				"Convert Case: Lower Case"
+			],
+			[
+				"previbrow",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"HAML",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"gitco",
+				"Git: Commit"
+			],
+			[
+				"lin",
+				"Snippet: Markdown_link_(mdl)"
+			],
+			[
+				"gitpush",
+				"Git: Push"
+			],
+			[
+				"gitlog",
+				"Git: Log All"
+			],
+			[
+				"marklink",
+				"Snippet: Markdown_link_(mdl)"
+			],
+			[
+				" mark",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				" Link",
+				"Snippet: Markdown_link_(mdl)"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"gitcheckout",
+				"Git: Checkout Current File"
+			],
+			[
+				"gitstash",
+				"Git: Stash Changes"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"choose",
+				"Clipboard Manager: Choose & Paste"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"delet",
+				"File: Delete"
+			],
+			[
+				"choos",
+				"Clipboard Manager: Choose & Paste"
+			],
+			[
+				"clipboard",
+				"Clipboard Manager: Show History"
+			],
+			[
+				"r",
+				"File: Rename"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"syntaxruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"amm",
+				"Git: Amend Commit"
+			],
+			[
+				"reinid",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reindi",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"packageremove",
+				"Package Control: Remove Package"
+			],
+			[
+				"csscomb",
+				"Run CSScomb"
+			],
+			[
+				"csscom",
+				"Run CSScomb"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"gitre",
+				"Git: Reset (hard) HEAD"
+			]
+		],
+		"width": 440.0
+	},
+	"console":
+	{
+		"height": 224.0,
+		"history":
+		[
+			"print (dir(view))",
+			"print (view.syntax_name())",
+			"print (view)",
+			"print (view.syntax_name(view.sel()[0].b))",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/jay/.config/sublime-text-3/Packages/User"
+	],
+	"file_history":
+	[
+		"/home/jay/.config/sublime-text-3/Packages/User/HtmlEntities.sublime-completions",
+		"/home/jay/.config/sublime-text-3/Packages/DictionaryAutoComplete/DictionaryAutoComplete.sublime-settings",
+		"/home/jay/Code/upmc/dayinthelife/app/styles/app.scss",
+		"/home/jay/Code/upmc/dayinthelife/app/styles/_components.scss",
+		"/home/jay/Code/upmc/dayinthelife/bower_components/angular-ui-router/release/angular-ui-router.js",
+		"/home/jay/Code/upmc/dayinthelife/app/styles/_material.scss",
+		"/home/jay/Code/upmc/dayinthelife/www/views/tile.html",
+		"/home/jay/.config/sublime-text-3/Packages/User/ColorHighlighter.sublime-settings",
+		"/home/jay/.config/sublime-text-3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/home/jay/Code/upmc/dayinthelife/app/styles/_page.scss",
+		"/home/jay/Code/upmc/dayinthelife/app/views/hello.jade",
+		"/home/jay/Code/upmc/dayinthelife/app/scripts/directives/board.coffee",
+		"/home/jay/Code/upmc/dayinthelife/app/scripts/values.coffee",
+		"/home/jay/Code/upmc/dayinthelife/app/views/tile.jade",
+		"/home/jay/backup.sh",
+		"/home/jay/Code/upmc/dayinthelife/app/scripts/services/dataObject.coffee",
+		"/home/jay/Code/upmc/dayinthelife/app/scripts/controllers/main.coffee",
+		"/home/jay/Code/upmc/dayinthelife/app/views/board.jade",
+		"/home/jay/Code/upmc/dayinthelife/app/views/menu.jade",
+		"/home/jay/Code/upmc/dayinthelife/app/scripts/directives/activity.coffee",
+		"/home/jay/Code/upmc/dayinthelife/app/scripts/directives/workspace.coffee",
+		"/home/jay/Code/upmc/dayinthelife/app/views/day.jade",
+		"/home/jay/Code/upmc/dayinthelife/app/styles/_week.scss",
+		"/home/jay/Code/upmc/dayinthelife/app/scripts/app.coffee",
+		"/home/jay/Code/upmc/dayinthelife/.gitignore",
+		"/home/jay/Code/upmc/dayinthelife/app/index.jade",
+		"/home/jay/Code/upmc/dayinthelife/app/views/questions.jade",
+		"/home/jay/Code/upmc/dayinthelife/ionic.project",
+		"/home/jay/Code/upmc/dayinthelife/app/scripts/controllers/questions.coffee",
+		"/home/jay/Code/upmc/dayinthelife/app/views/week.jade",
+		"/home/jay/Code/upmc/dayinthelife/app/scripts/directives/tile.coffee",
+		"/home/jay/Code/upmc/dayinthelife/app/styles/_PROTO-style.scss",
+		"/home/jay/Code/upmc/dayinthelife/app/views/workspace.jade",
+		"/home/jay/Code/upmc/dayinthelife/app/scripts/services/eventDispatcher.coffee",
+		"/home/jay/Code/upmc/dayinthelife/app/views/activity.jade",
+		"/home/jay/Code/upmc/dayinthelife/app/scripts/controllers/week.coffee",
+		"/home/jay/Code/upmc/dayinthelife/app/styles/icomoon.css",
+		"/home/jay/Code/upmc/dayinthelife/app/index-old.jade",
+		"/home/jay/Code/upmc/dayinthelife/app/scripts/controllers/hello.coffee",
+		"/home/jay/Code/upmc/dayinthelife/app/scripts/routes.coffee",
+		"/home/jay/Code/upmc/dayinthelife/Brocfile.js",
+		"/home/jay/Code/upmc/dayinthelife/bower.json",
+		"/home/jay/Code/upmc/dayinthelife/app/scripts/services/uniqueIdentifier.coffee",
+		"/home/jay/Code/upmc/dayinthelife/app/scripts/directives/slot.coffee",
+		"/home/jay/Code/upmc/dayinthelife/app/styles/_workspace.scss",
+		"/home/jay/.config/sublime-text-3/Packages/User/Jade.sublime-settings",
+		"/home/jay/.config/sublime-text-3/Packages/User/CoffeeScript.sublime-settings",
+		"/home/jay/Code/capstone-website/divshot.json",
+		"/home/jay/Code/upmc/dayinthelife/app/styles/_typography.scss",
+		"/home/jay/Code/upmc/dayinthelife/www/views/board.html",
+		"/home/jay/Code/upmc/dayinthelife/www/scripts/app.js",
+		"/home/jay/Code/upmc/dayinthelife/app/views/slot.jade",
+		"/home/jay/Code/upmc/dayinthelife/app/views/main.jade",
+		"/home/jay/.zshrc",
+		"/home/jay/.config/sublime-text-3/Packages/User/dired.sublime-settings",
+		"/home/jay/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/jay/.config/sublime-text-3/Packages/.gitignore",
+		"/home/jay/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/jay/.config/sublime-text-3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/home/jay/.config/sublime-text-3/Packages/Cheat Sheets/cheat-sheets/Sublime Text.cheatsheet",
+		"/home/jay/.config/sublime-text-3/Packages/FileBrowser/dired.sublime-settings",
+		"/home/jay/.config/sublime-text-3/Packages/FileBrowser/Default.sublime-keymap",
+		"/home/jay/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/jay/Code/upmc/dayinthelife/prototype.sublime-project",
+		"/etc/default/console-setup",
+		"/home/jay/Code/upmc/dayinthelife/app/views/target.jade",
+		"/home/jay/Code/upmc/dayinthelife/package.json",
+		"/home/jay/Code/upmc/pickAndDrop/app/styles/_shadow.scss",
+		"/home/jay/Code/upmc/pickAndDrop/bower_components/angular-touch/bower.json",
+		"/home/jay/Code/upmc/pickAndDrop/app/views/tile.jade",
+		"/home/jay/Code/upmc/prototype/app/index.jade",
+		"/home/jay/Code/capstone-website/source/stylesheets/_spectral.scss",
+		"/home/jay/Code/capstone-website/source/partials/header.erb",
+		"/home/jay/Code/capstone-website/source/sections/_top.html.haml",
+		"/home/jay/Code/capstone-website/source/sections/_team.html.haml",
+		"/home/jay/Code/capstone-website/source/stylesheets/_hero.scss.erb",
+		"/home/jay/Code/capstone-website/README.md",
+		"/home/jay/Code/capstone-website/source/javascripts/main.js",
+		"/home/jay/Code/capstone-website/source/stylesheets/style.scss",
+		"/home/jay/Code/capstone-website/source/stylesheets/_typography.scss",
+		"/home/jay/Code/capstone-website/source/sections/_synthesis.html.haml",
+		"/home/jay/Code/capstone-website/source/sections/_methods.html.haml",
+		"/home/jay/Code/capstone-website/source/sections/_design.html.haml",
+		"/home/jay/Code/capstone-website/source/sections/results.erb",
+		"/home/jay/Code/capstone-website/source/stylesheets/libs/_vars.scss",
+		"/home/jay/Code/capstone-website/source/stylesheets/_typography2.scss",
+		"/home/jay/Code/capstone-website/source/stylesheets/_skel.scss",
+		"/home/jay/Code/capstone-website/source/partials/_footer.html.haml",
+		"/home/jay/Code/capstone-website/source/sections/_results.html.haml",
+		"/home/jay/Code/capstone-website/source/layouts/layout.erb",
+		"/home/jay/Code/capstone-website/source/sections/domain.erb",
+		"/home/jay/Code/capstone-website/teamquetzal.sublime-project",
+		"/home/jay/Code/capstone-website/build/javascripts/main.js",
+		"/home/jay/.cache/.fr-ru7Noe/assets/js/main.js",
+		"/home/jay/Code/capstone-website/source/sections/_domain.html.haml",
+		"/home/jay/Code/capstone-website/config.rb",
+		"/home/jay/Code/capstone-website/source/sections/top.erb",
+		"/home/jay/Code/capstone-website/source/sections/design.erb",
+		"/home/jay/Code/capstone-website/source/partials/_image.html.haml",
+		"/home/jay/Code/capstone-website/source/images/HCII_logo.svg",
+		"/home/jay/Code/capstone-website/Gemfile",
+		"/home/jay/Code/capstone-website/source/sections/synthesis.erb",
+		"/home/jay/Code/capstone-website/source/partials/nav.erb",
+		"/home/jay/Code/capstone-website/source/sections/methods.erb",
+		"/home/jay/Code/capstone-website/source/partials/footer.erb",
+		"/home/jay/Code/capstone-website/source/sections/team.erb",
+		"/home/jay/Code/capstone-website/source/index.html.erb",
+		"/home/jay/Code/capstone-website/source/stylesheets/libs/_skel.scss",
+		"/home/jay/.config/sublime-text-3/Packages/SassBeautify/SassBeautify.sublime-settings",
+		"/home/jay/Code/capstone-website/source/images/placeholder.svg",
+		"/home/jay/Code/capstone-website/source/fontweight.diff",
+		"/home/jay/Code/capstone-website/build/stylesheets/style.css",
+		"/home/jay/Code/capstone-website/build/sections/domain.html",
+		"/home/jay/Code/capstone-website/build/sections/results.html",
+		"/home/jay/Code/capstone-website/build/sections/top.html",
+		"/home/jay/Code/capstone-website/build/sections/synthesis.html",
+		"/home/jay/.cache/.fr-3YDiZM/assets/js/main.js",
+		"/home/jay/Code/capstone-website/source/javascripts/all.js",
+		"/home/jay/.cache/.fr-qGzfJD/index.html",
+		"/home/jay/Code/capstone-website/bower_components/jquery/src/selector.js",
+		"/home/jay/Code/journal/journal-build-output.txt",
+		"/home/jay/Code/journal/build/2012/04/08/My_Stumbles.html",
+		"/home/jay/Code/journal/source/data/articles.json.erb",
+		"/home/jay/Code/journal/source/posts/2015-03-01-still-struggling.html.markdown",
+		"/home/jay/.config/sublime-text-3/Packages/Cheat Sheets/cheat-sheets/Regular Expressions.cheatsheet",
+		"/home/jay/Code/journal/source/posts/2015-05-17-times-where-i-had-to-persuade.html.markdown",
+		"/home/jay/Code/journal/config.rb",
+		"/home/jay/Code/journal/source/posts/2015-03-28-found-out-i-m-ashamed.html.markdown"
+	],
+	"find":
+	{
+		"height": 57.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"",
+			"/home/jay/Code/upmc/dayinthelife/app",
+			"/home/jay/Code/upmc/dayinthelife/",
+			"/home/jay/Code/upmc/dayinthelife/app",
+			"<current file>",
+			"<current file>,<open files>",
+			"<current file>",
+			"/home/jay/Code/journal/source/posts",
+			"/home/jay/Code/designbyjayliu/source/",
+			"/home/jay/Code/designbyjayliu/source/,*.scss",
+			"/home/jay/Code/designbyjayliu/source/*.scss",
+			"/home/jay/Code/designbyjayliu/source/",
+			"/home/jay/Code/designbyjayliu/source/layouts",
+			"<open files>,/home/jay/Code/tiddlywiki-theme/app/views",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"theme",
+			"contents",
+			"trigger",
+			"contents",
+			"\"contents\": \"&",
+			"plus",
+			"custom",
+			"each",
+			"caption",
+			"source",
+			"activity",
+			" ",
+			"circle",
+			"content",
+			"shower",
+			"name",
+			";\n}\n.icon-",
+			":before {\n	content",
+			"\n}\n.icon-",
+			";",
+			"before {\n	content:",
+			"heart2",
+			"bar-chart",
+			":before",
+			".icon-",
+			"^.icon-([a-z-]+):before",
+			"}\n",
+			"^.icon-([a-z-]+):before",
+			"icon-[a-z-]:before",
+			"icon-",
+			"fonts",
+			"2500",
+			"board",
+			"zIndex",
+			"offset",
+			"0",
+			"y",
+			"position",
+			"color",
+			"handle",
+			"10px",
+			"element.find('.end')",
+			"constants",
+			"20",
+			"element.find('.activity-list')",
+			"element.find('.activity-list').",
+			"element.find('.activity-list')",
+			"#menu",
+			"$$hashKey",
+			"addActivity",
+			"tileDelet",
+			"tileDrop",
+			"$(tile)",
+			"tileDrop",
+			"drop",
+			"tileDrop",
+			"plus",
+			"end",
+			"20px",
+			"prompt",
+			"Tap here",
+			"placeholder",
+			"button",
+			"h1",
+			"attractive",
+			"/hello",
+			"hello",
+			"rootScope",
+			"Hello*",
+			"HelloCtrl",
+			"jade",
+			"hello",
+			".module",
+			"module('ionic'",
+			"$stateProvider",
+			"stupid",
+			"hello",
+			",",
+			"intro",
+			"blah",
+			"day",
+			"activity",
+			"placeIcon",
+			"z-source",
+			"z-soucr",
+			"activity",
+			"z-index",
+			"BULLETTRAIN_GIT_FG",
+			"BULLETTRAIN_STATUS_BG",
+			"     ",
+			"    ",
+			"ignored",
+			"emmet",
+			"wrap",
+			"jquery",
+			"key",
+			"ICON_WIDTH",
+			"font",
+			"menu",
+			"2em",
+			"func",
+			"TweenMax",
+			"_onTuckMenuAway",
+			"scope",
+			"target",
+			"10%",
+			"50px",
+			"highlight",
+			"@",
+			"timeSlot",
+			"timeSlots",
+			" --require ",
+			"files: ",
+			" ['**/*.",
+			"files: ",
+			"files:",
+			"files",
+			"+=",
+			"$scope.pickedUpLocation",
+			"targetLocation",
+			"3u",
+			"\"50px",
+			"50px",
+			"130px",
+			"center",
+			"4u",
+			"%",
+			"      %img"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$1",
+			"  ",
+			".caption",
+			"views",
+			"content-field"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Preferences.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3638,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2484,
+								2484
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3075.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 177.0
+	},
+	"output.git":
+	{
+		"height": 134.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime-settings.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"questions",
+				"app/views/questions.jade"
+			],
+			[
+				"component",
+				"app/styles/_components.scss"
+			],
+			[
+				"workspscs",
+				"app/styles/_workspace.scss"
+			],
+			[
+				"proto",
+				"app/styles/_PROTO-style.scss"
+			],
+			[
+				"colors",
+				"app/styles/_colors.scss"
+			],
+			[
+				"vale",
+				"app/scripts/values.coffee"
+			],
+			[
+				"protot",
+				"app/styles/_PROTO-style.scss"
+			],
+			[
+				"tile",
+				"app/views/tile.jade"
+			],
+			[
+				"menu",
+				"app/views/menu.jade"
+			],
+			[
+				"appsc",
+				"app/styles/app.scss"
+			],
+			[
+				"questjade",
+				"app/views/questions.jade"
+			],
+			[
+				"actscs",
+				"app/styles/_add-activity.scss"
+			],
+			[
+				"grid",
+				"app/styles/_grid.scss"
+			],
+			[
+				"activitycoff",
+				"app/scripts/directives/activity.coffee"
+			],
+			[
+				"activi",
+				"app/views/activity.jade"
+			],
+			[
+				"activit",
+				"app/views/activity.jade"
+			],
+			[
+				"tileadd",
+				"app/scripts/directives/tile-add.coffee"
+			],
+			[
+				"tileco",
+				"app/scripts/directives/tile.coffee"
+			],
+			[
+				"mencoff",
+				"app/scripts/directives/menu.coffee"
+			],
+			[
+				"menjad",
+				"app/views/menu.jade"
+			],
+			[
+				"question",
+				"app/views/questions.jade"
+			],
+			[
+				"dataobj",
+				"app/scripts/services/dataObject.coffee"
+			],
+			[
+				"route",
+				"app/scripts/routes.coffee"
+			],
+			[
+				"roeute",
+				"bower_components/angular-ui-router/release/angular-ui-router.js"
+			],
+			[
+				"dayjade",
+				"app/views/day.jade"
+			],
+			[
+				"index",
+				"app/index.jade"
+			],
+			[
+				"value",
+				"app/scripts/values.coffee"
+			],
+			[
+				"menujad",
+				"app/views/menu.jade"
+			],
+			[
+				"maincof",
+				"app/scripts/controllers/main.coffee"
+			],
+			[
+				"menucoff",
+				"app/scripts/directives/menu.coffee"
+			],
+			[
+				"addactidi",
+				"app/views/addActivityDialog.jade"
+			],
+			[
+				"addactiv",
+				"app/views/addActivity.jade"
+			],
+			[
+				"",
+				"app/views/menu.jade"
+			],
+			[
+				"tileaddcof",
+				"app/scripts/directives/tile-add.coffee"
+			],
+			[
+				"tilecoff",
+				"app/scripts/directives/tile.coffee"
+			],
+			[
+				"men",
+				"app/views/menu.jade"
+			],
+			[
+				"menucof",
+				"app/scripts/directives/menu.coffee"
+			],
+			[
+				"activcoff",
+				"app/scripts/directives/activity.coffee"
+			],
+			[
+				"data",
+				"app/scripts/services/dataObject.coffee"
+			],
+			[
+				"materi",
+				"app/styles/_material.scss"
+			],
+			[
+				"addactivityc",
+				"app/styles/_add-activity.scss"
+			],
+			[
+				"boardcof",
+				"app/scripts/directives/board.coffee"
+			],
+			[
+				"board",
+				"app/views/board.jade"
+			],
+			[
+				"boarcoff",
+				"app/scripts/directives/board.coffee"
+			],
+			[
+				"borad",
+				"app/views/board.jade"
+			],
+			[
+				"addactivicoff",
+				"app/scripts/controllers/addActivity.coffee"
+			],
+			[
+				"boardcoff",
+				"app/scripts/directives/board.coffee"
+			],
+			[
+				"addacti",
+				"app/views/addActivityDialog.jade"
+			],
+			[
+				"dialogjade",
+				"app/views/addActivityDialog.jade"
+			],
+			[
+				"activ",
+				"app/views/addActivity.jade"
+			],
+			[
+				"color",
+				"app/styles/_colors.scss"
+			],
+			[
+				"worksscs",
+				"app/styles/_workspace.scss"
+			],
+			[
+				"page",
+				"app/styles/_page.scss"
+			],
+			[
+				"rout",
+				"app/scripts/routes.coffee"
+			],
+			[
+				"tilecof",
+				"app/scripts/directives/tile.coffee"
+			],
+			[
+				"maincoff",
+				"app/scripts/controllers/main.coffee"
+			],
+			[
+				"mainc",
+				"app/scripts/controllers/main.coffee"
+			],
+			[
+				"day",
+				"app/views/day.jade"
+			],
+			[
+				"activitcoff",
+				"app/scripts/directives/activity.coffee"
+			],
+			[
+				"workspace",
+				"app/scripts/directives/workspace.coffee"
+			],
+			[
+				"workspjad",
+				"app/views/workspace.jade"
+			],
+			[
+				"dataobjec",
+				"app/scripts/services/dataObject.coffee"
+			],
+			[
+				"workcof",
+				"app/scripts/directives/workspace.coffee"
+			],
+			[
+				"workspacescs",
+				"app/styles/_workspace.scss"
+			],
+			[
+				"activcof",
+				"app/scripts/directives/activity.coffee"
+			],
+			[
+				"board.cof",
+				"app/scripts/directives/board.coffee"
+			],
+			[
+				"val",
+				"~/Code/upmc/dayinthelife/app/scripts/values.coffee"
+			],
+			[
+				"work",
+				"app/scripts/directives/workspace.coffee"
+			],
+			[
+				"dayjad",
+				"app/views/day.jade"
+			],
+			[
+				"worksp",
+				"app/scripts/directives/workspace.coffee"
+			],
+			[
+				"dataob",
+				"app/scripts/services/dataObject.coffee"
+			],
+			[
+				"actcof",
+				"app/scripts/directives/activity.coffee"
+			],
+			[
+				"acti",
+				"app/views/activity.jade"
+			],
+			[
+				"activtcof",
+				"app/scripts/directives/activity.coffee"
+			],
+			[
+				"prot",
+				"app/styles/_PROTO-style.scss"
+			],
+			[
+				"indej",
+				"app/index.jade"
+			],
+			[
+				"acticof",
+				"app/scripts/directives/activity.coffee"
+			],
+			[
+				"workspaccoff",
+				"app/scripts/directives/workspace.coffee"
+			],
+			[
+				"eventdis",
+				"app/scripts/services/eventDispatcher.coffee"
+			],
+			[
+				"activtcoff",
+				"app/scripts/directives/activity.coffee"
+			],
+			[
+				"evendish",
+				"app/scripts/services/eventDispatcher.coffee"
+			],
+			[
+				"activitycof",
+				"app/scripts/directives/activity.coffee"
+			],
+			[
+				"eventd",
+				"app/scripts/services/eventDispatcher.coffee"
+			],
+			[
+				"menuja",
+				"app/views/menu.jade"
+			],
+			[
+				"menujade",
+				"app/views/menu.jade"
+			],
+			[
+				"in",
+				"app/index.jade"
+			],
+			[
+				"works",
+				"app/scripts/directives/workspace.coffee"
+			],
+			[
+				"typ",
+				"app/styles/_typography.scss"
+			],
+			[
+				"app",
+				"app/styles/app.scss"
+			],
+			[
+				"hello",
+				"app/views/hello.jade"
+			],
+			[
+				"week",
+				"app/views/week.jade"
+			],
+			[
+				"appcoff",
+				"app/scripts/app.coffee"
+			],
+			[
+				"inde",
+				"app/index.jade"
+			],
+			[
+				"routes",
+				"app/scripts/routes.coffee"
+			],
+			[
+				"ind",
+				"app/index.jade"
+			],
+			[
+				"broc",
+				"Brocfile.js"
+			],
+			[
+				"indexjade",
+				"app/index.jade"
+			],
+			[
+				"slot",
+				"app/scripts/directives/slot.coffee"
+			],
+			[
+				"main",
+				"app/scripts/controllers/main.coffee"
+			],
+			[
+				"maincoffe",
+				"app/scripts/controllers/main.coffee"
+			],
+			[
+				"appscss",
+				"app/styles/app.scss"
+			],
+			[
+				"activity",
+				"app/views/activity.jade"
+			],
+			[
+				"actti",
+				"app/views/activity.jade"
+			],
+			[
+				"dispac",
+				"app/scripts/services/eventDispatcher.coffee"
+			],
+			[
+				"boardc",
+				"app/scripts/directives/board.coffee"
+			],
+			[
+				"ac",
+				"app/views/activity.jade"
+			],
+			[
+				"boardjad",
+				"app/views/board.jade"
+			],
+			[
+				"_pro",
+				"app/styles/_PROTO-style.scss"
+			],
+			[
+				"workspc",
+				"app/views/workspace.jade"
+			],
+			[
+				"mainjade",
+				"app/views/main.jade"
+			],
+			[
+				"dataobjc",
+				"app/scripts/services/dataObject.coffee"
+			],
+			[
+				"protost",
+				"app/styles/_PROTO-style.scss"
+			],
+			[
+				"event",
+				"app/scripts/services/eventDispatcher.coffee"
+			],
+			[
+				"protoscs",
+				"app/styles/_PROTO-style.scss"
+			],
+			[
+				"scss",
+				"app/styles/app.scss"
+			],
+			[
+				"evenct",
+				"app/scripts/services/eventDispatcher.coffee"
+			],
+			[
+				"coffee",
+				"app/scripts/directives/target.coffee"
+			],
+			[
+				"appc",
+				"app/scripts/app.coffee"
+			],
+			[
+				"targecof",
+				"app/scripts/directives/target.coffee"
+			],
+			[
+				"target",
+				"app/views/target.jade"
+			],
+			[
+				"protos",
+				"app/styles/_PROTO-style.scss"
+			],
+			[
+				"footer",
+				"source/partials/_footer.html.haml"
+			],
+			[
+				"spectr",
+				"source/stylesheets/_spectral.scss"
+			],
+			[
+				"spect",
+				"source/stylesheets/_spectral.scss"
+			],
+			[
+				"sty",
+				"source/stylesheets/style.scss"
+			],
+			[
+				"synth",
+				"source/sections/_synthesis.html.haml"
+			],
+			[
+				"top",
+				"source/sections/_top.html.haml"
+			],
+			[
+				"style",
+				"source/stylesheets/style.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 351.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 3
+	}
+}
