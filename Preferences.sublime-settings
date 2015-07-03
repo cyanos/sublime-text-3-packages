@@ -47,7 +47,7 @@
 	"caret_extra_width": 0,
 	"caret_style": "smooth",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/Colorsublime/themes/Brogrammer.tmTheme",
+	"color_scheme": "Packages/Predawn/predawn.tmTheme",
 	"copy_with_empty_selection": true,
 	"create_window_at_startup": true,
 	"default_encoding": "UTF-8",
@@ -101,7 +101,7 @@
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 12,
+	"font_size": 10,
 	"gpu_window_buffer": "auto",
 	"gutter": true,
 	"highlight_line": true,
@@ -109,8 +109,8 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"Markdown",
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
 	"ignored_words":
 	[
@@ -160,8 +160,8 @@
 	"spell_check": false,
 	"tab_completion": true,
 	"tab_size": 2,
-	"theme": "Brogrammer.sublime-theme",
-	"translate_tabs_to_spaces": false,
+	"theme": "predawn.sublime-theme",
+	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
