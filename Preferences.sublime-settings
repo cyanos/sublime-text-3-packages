@@ -1,7 +1,8 @@
 {
 	"added_words":
 	[
-		"journaler"
+		"journaler",
+		"mentorship"
 	],
 	"always_prompt_for_file_reload": false,
 	"always_show_minimap_viewport": false,
@@ -20,7 +21,7 @@
 			"selector": "text.html"
 		}
 	],
-	"auto_complete_with_fields": false,
+	"auto_complete_with_fields": true,
 	"auto_find_in_selection": false,
 	"auto_indent": true,
 	"auto_match_enabled": true,
@@ -44,7 +45,7 @@
 	"bold_folder_labels": true,
 	"caret_extra_bottom": 0,
 	"caret_extra_top": 0,
-	"caret_extra_width": 0,
+	"caret_extra_width": 1,
 	"caret_style": "smooth",
 	"close_windows_when_empty": false,
 	"color_scheme": "Packages/Predawn/predawn.tmTheme",
@@ -97,6 +98,7 @@
 		".hg",
 		"CVS"
 	],
+	"font_face": "Hack",
 	"font_options":
 	[
 		"subpixel_antialias"
@@ -105,12 +107,14 @@
 	"gpu_window_buffer": "auto",
 	"gutter": true,
 	"highlight_line": true,
-	"highlight_modified_tabs": false,
-	"hot_exit": true,
+	"highlight_modified_tabs": true,
+	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Markdown"
+		"AngularJS Snippets",
+		"Markdown",
+		"CoffeeAngular Syntax",
+		"Vintage"
 	],
 	"ignored_words":
 	[
@@ -124,12 +128,14 @@
 	"indent_to_bracket": false,
 	"index_exclude_patterns":
 	[
-		"*.log"
+		"/home/jay/Code/upmc/dayinthelife/bower_components*",
+		"*.log",
+		"/home/jay/Code/portfolio/dist*"
 	],
 	"index_files": true,
 	"line_numbers": true,
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
 	"margin": 4,
 	"match_brackets": true,
 	"match_brackets_angle": false,
