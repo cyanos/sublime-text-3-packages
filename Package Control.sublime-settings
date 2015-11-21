@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -8,6 +9,7 @@
 		"AngularJS",
 		"AngularJS (CoffeeScript)",
 		"AngularJS Snippets",
+		"AutoFileName",
 		"Better CoffeeScript",
 		"Better Completion",
 		"BracketHighlighter",
@@ -59,9 +61,11 @@
 		"Select Quoted",
 		"SideBarEnhancements",
 		"SmartMarkdown",
+		"StringUtilities",
 		"SublimeREPL",
 		"SyncedSideBar",
 		"Text Pastry",
+		"Theme - Afterglow",
 		"Theme - Brogrammer",
 		"Theme - Soda",
 		"Theme - Soda SolarizedDark",

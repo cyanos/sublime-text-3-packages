@@ -2,7 +2,9 @@
 	"added_words":
 	[
 		"journaler",
-		"mentorship"
+		"mentorship",
+		"healthcare",
+		"impactful"
 	],
 	"always_prompt_for_file_reload": false,
 	"always_show_minimap_viewport": false,
@@ -112,8 +114,8 @@
 	"ignored_packages":
 	[
 		"AngularJS Snippets",
-		"Markdown",
 		"CoffeeAngular Syntax",
+		"Markdown",
 		"Vintage"
 	],
 	"ignored_words":
@@ -163,10 +165,10 @@
 	"show_panel_on_build": true,
 	"show_tab_close_buttons": true,
 	"smart_indent": true,
-	"spell_check": false,
+	"spell_check": true,
 	"tab_completion": true,
 	"tab_size": 2,
-	"theme": "predawn.sublime-theme",
+	"theme": "Afterglow-orange.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": true,
 	"trim_automatic_white_space": true,
