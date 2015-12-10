@@ -2,7 +2,9 @@
 	"added_words":
 	[
 		"journaler",
-		"mentorship"
+		"mentorship",
+		"longboard",
+		"Kickstarter"
 	],
 	"always_prompt_for_file_reload": false,
 	"always_show_minimap_viewport": false,
@@ -48,7 +50,7 @@
 	"caret_extra_width": 1,
 	"caret_style": "smooth",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Predawn/predawn.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"copy_with_empty_selection": true,
 	"create_window_at_startup": true,
 	"default_encoding": "UTF-8",
@@ -98,7 +100,6 @@
 		".hg",
 		"CVS"
 	],
-	"font_face": "Hack",
 	"font_options":
 	[
 		"subpixel_antialias"
@@ -112,8 +113,8 @@
 	"ignored_packages":
 	[
 		"AngularJS Snippets",
-		"Markdown",
 		"CoffeeAngular Syntax",
+		"Markdown",
 		"Vintage"
 	],
 	"ignored_words":
@@ -166,7 +167,7 @@
 	"spell_check": false,
 	"tab_completion": true,
 	"tab_size": 2,
-	"theme": "predawn.sublime-theme",
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": true,
 	"trim_automatic_white_space": true,

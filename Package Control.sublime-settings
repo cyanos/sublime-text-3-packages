@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -33,6 +34,7 @@
 		"GenerateUUID",
 		"Git",
 		"HTML-CSS-JS Prettify",
+		"InsertDate",
 		"Jade",
 		"Jade Build",
 		"Jade Snippets",
@@ -61,6 +63,7 @@
 		"SmartMarkdown",
 		"SublimeREPL",
 		"SyncedSideBar",
+		"Terminal",
 		"Text Pastry",
 		"Theme - Brogrammer",
 		"Theme - Soda",
