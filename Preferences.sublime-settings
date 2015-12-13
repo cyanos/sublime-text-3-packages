@@ -52,7 +52,7 @@
 	"caret_extra_width": 1,
 	"caret_style": "smooth",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow-monokai.tmTheme",
 	"copy_with_empty_selection": true,
 	"create_window_at_startup": true,
 	"default_encoding": "UTF-8",
@@ -114,8 +114,6 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"AngularJS Snippets",
-		"CoffeeAngular Syntax",
 		"Markdown",
 		"Vintage"
 	],
@@ -169,7 +167,7 @@
 	"spell_check": true,
 	"tab_completion": true,
 	"tab_size": 2,
-	"theme": "Default.sublime-theme",
+	"theme": "Afterglow.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": true,
 	"trim_automatic_white_space": true,
