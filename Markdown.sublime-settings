@@ -25,7 +25,7 @@
   "trim_trailing_white_space_on_save": true,
   "auto_match_enabled": true,
   "auto_complete_selector": "text.html.markdown", // "text", // "source"
-  "auto_complete": true,
+  "auto_complete": false,
   "auto_complete_commit_on_tab": true,
   // "auto_complete_triggers": [{"selector": "text.html.markdown", "characters": ""}],
 

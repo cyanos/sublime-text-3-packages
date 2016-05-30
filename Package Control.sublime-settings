@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"AceJump",
 		"All Autocomplete",
 		"AutoFileName",
 		"Better CoffeeScript",
@@ -22,13 +23,13 @@
 		"DocBlockr",
 		"EasySettings",
 		"Emmet",
+		"Emoji",
 		"FileDiffs",
 		"FindKeyConflicts",
 		"fish-shell",
 		"GenerateUUID",
 		"GhostText",
 		"Git",
-		"GithubEmoji",
 		"HTML-CSS-JS Prettify",
 		"InsertDate",
 		"Jade",
