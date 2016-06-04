@@ -32,18 +32,19 @@
 	"auto_match_enabled": true,
 	"binary_file_patterns":
 	[
-		"*.jpg",
-		"*.jpeg",
-		"*.png",
-		"*.gif",
-		"*.ttf",
-		"*.tga",
 		"*.dds",
-		"*.ico",
+		"*.docx",
 		"*.eot",
-		"*.pdf",
-		"*.swf",
+		"*.gif",
+		"*.ico",
 		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
 		"*.woff",
 		"*.zip"
 	],
@@ -53,7 +54,7 @@
 	"caret_extra_width": 1,
 	"caret_style": "smooth",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Theme - Afterglow/Afterglow-monokai.tmTheme",
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
 	"copy_with_empty_selection": true,
 	"create_window_at_startup": true,
 	"default_encoding": "UTF-8",
@@ -103,18 +104,22 @@
 		".hg",
 		"CVS"
 	],
+	"font_face": "Hack",
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 10,
+	"font_size": 11,
 	"gpu_window_buffer": "auto",
 	"gutter": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
+	"http_proxy": false,
+	"https_proxy": false,
 	"ignored_packages":
 	[
+		"CSS Extended Completions",
 		"Markdown",
 		"Vintage"
 	],
