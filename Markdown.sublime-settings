@@ -36,7 +36,7 @@
   "rulers": [],
 
   // Line
-  "line_numbers": false,
+  "line_numbers": true,
   "highlight_line": false,
   "line_padding_top": 2,
   "line_padding_bottom": 2,
