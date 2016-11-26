@@ -38,38 +38,6 @@
 </dict>
 </dict>
 
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_FF4612FF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#FF4612FF</string>
-<key>foreground</key>
-<string>#4C1000FF</string>
-<key>caret</key>
-<string>#4C1000FF</string>
-</dict>
-</dict>
-
-<dict>
-<key>name</key>
-<string>mon_text_color</string>
-<key>scope</key>
-<string>mcol_text_FF4612FF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#ECECEdFF</string>
-<key>foreground</key>
-<string>#FF4612FF</string>
-<key>caret</key>
-<string>#4C1000FF</string>
-</dict>
-</dict>
-
         <dict>
             <key>settings</key>
             <dict>
@@ -82,7 +50,7 @@
                 <key>invisibles</key>
                 <string>#E0E0E0</string>
                 <key>lineHighlight</key>
-                <string>#e6e6e6</string>
+                <string>#D3D3D3</string>
                 <key>selection</key>
                 <string>#C2E8FF</string>
                 <key>selectionBorder</key>
@@ -145,8 +113,6 @@
             <string>invalid.illegal</string>
             <key>settings</key>
             <dict>
-                <key>background</key>
-                <string>#F93232</string>
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
@@ -669,7 +635,7 @@
             <key>name</key>
             <string>Markup: Underline</string>
             <key>scope</key>
-            <string>markup.underline,markup.underline.link.markdown,constant.other.reference.link.markdown,meta.image.reference.markdown</string>
+            <string>markup.underline,markup.underline.link.markdown,constant.other.reference.link.markdown,meta.image.reference.markdown,meta.image.inline.markdown</string>
             <key>settings</key>
             <dict>
                 <key>background</key>
