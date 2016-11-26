@@ -7,6 +7,9 @@
 		"Kickstarter",
 		"healthcare",
 		"impactful",
+		"unaddressed",
+		"Uchtdorf",
+		"mesmerizingly",
 		"discoverability",
 		"Vertices"
 	],
@@ -17,6 +20,7 @@
 	"auto_close_tags": true,
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": false,
+	"auto_complete_cycle": true,
 	"auto_complete_delay": 50,
 	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin",
 	"auto_complete_size_limit": 4194304,
@@ -47,7 +51,8 @@
 		"*.tga",
 		"*.ttf",
 		"*.woff",
-		"*.zip"
+		"*.zip",
+		"bower_components/**"
 	],
 	"bold_folder_labels": true,
 	"caret_extra_bottom": 0,
@@ -55,7 +60,7 @@
 	"caret_extra_width": 1,
 	"caret_style": "smooth",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"copy_with_empty_selection": true,
 	"create_window_at_startup": true,
 	"default_encoding": "UTF-8",
@@ -105,12 +110,12 @@
 		".hg",
 		"CVS"
 	],
-	"font_face": "Hack",
 	"font_options":
 	[
+		"gray-antialias",
 		"subpixel_antialias"
 	],
-	"font_size": 11,
+	"font_size": 12,
 	"gpu_window_buffer": "auto",
 	"gutter": true,
 	"highlight_line": true,
@@ -130,6 +135,7 @@
 	],
 	"indent_guide_options":
 	[
+		"draw_active",
 		"draw_normal"
 	],
 	"indent_subsequent_lines": true,
@@ -142,8 +148,8 @@
 	],
 	"index_files": true,
 	"line_numbers": true,
-	"line_padding_bottom": 2,
-	"line_padding_top": 2,
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
 	"margin": 4,
 	"match_brackets": true,
 	"match_brackets_angle": false,
@@ -174,7 +180,7 @@
 	"spell_check": true,
 	"tab_completion": true,
 	"tab_size": 2,
-	"theme": "Afterglow.sublime-theme",
+	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": true,
 	"trim_automatic_white_space": true,
